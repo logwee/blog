@@ -4,7 +4,7 @@
 * (https://github.com/ethanhua/Skeleton)
 
 ### 小红点
-* （https://github.com/liyanxi/BadgeView）
+* （https://github.com/liyanxi/BadgeView)
 
 ### View点击涟漪效果
 * （https://github.com/isanwenyu/RippleEffect）
