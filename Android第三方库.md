@@ -1,9 +1,16 @@
 ## UI以及动画
-# [流光view]
+# 流光view／闪光效果
 * (https://github.com/facebook/shimmer-android)
 * (https://github.com/ethanhua/Skeleton)
 
+# 小红点
+* （https://github.com/liyanxi/BadgeView）
 
+# View点击涟漪效果
+* （https://github.com/isanwenyu/RippleEffect）
+
+#  Tab切换
+* (https://github.com/isanwenyu/TabView)
 
 
 
