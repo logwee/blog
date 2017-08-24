@@ -9,5 +9,4 @@
 ## 音视频
 
 * [音频数据的编解码](https://zhuanlan.zhihu.com/p/20706983)
-
 * [android MediaCodec 音频编解码的实现——转码](http://www.cnblogs.com/Sharley/p/5964490.html)
