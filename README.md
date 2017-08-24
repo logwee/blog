@@ -1,19 +1,19 @@
-# Cundong's Android blog
-¹¤×÷ÖĞµÄÒ»Ğ©Ë¼¿¼ºÍ×Ü½á¡£
+# Android blog
+å·¥ä½œä¸­çš„ä¸€äº›æ€è€ƒå’Œæ€»ç»“ã€‚
 
-- [Android 4.4 ÖĞ WebView Ê¹ÓÃ×¢ÒâÊÂÏî][1]
-- [Android AIDL Ô­Àí½âÎö][2]
-- [Android Ant ÅúÁ¿¶àÇşµÀ´ò°üÊµÀı][3]
-- [AndroidÆ½Ì¨ÉÏ³£ÓÃµÄ¶¨Ê±Æ÷Ñ¡Ôñ][4]
-- [AndroidÓ¦ÓÃÕıÈ·Ê¹ÓÃÀ©Õ¹SD¿¨][5]
-- [ÎªRecyclerViewÔö¼ÓHeaderºÍFooter][6]
-- [¹ØÓÚKindle£¬ÎÒËùÖªµÀµÄ][7]
-- [ÒıÓÃ android-support-v4.jar Ê±ºò³åÍ»ÎÊÌâ½â¾ö][8]
-- [×ª£ºAndroidÏµÍ³Ô´ÂëÄ¿Â¼ system-framework ÏÂ¸÷¸öjar°üµÄÓÃÍ¾.md][9]
-- [Í¨¹ıAndroidÔ´´úÂë·ÖÎöstartActivity()¹ı³Ì£¨ÉÏ£©][10]
-- [Í¨¹ıAndroidÔ´´úÂë·ÖÎöstartActivity()¹ı³Ì£¨ÏÂ£©][11]
-- [Í¨¹ıä¯ÀÀÆ÷Ö±½Ó´ò¿ªAndroidÓ¦ÓÃ³ÌĞò][12]
-- [Í¨¹ıÔ´Âë·ÖÎöAndroid µÄÏûÏ¢´¦Àí»úÖÆ][13]
+- [Android 4.4 ä¸­ WebView ä½¿ç”¨æ³¨æ„äº‹é¡¹][1]
+- [Android AIDL åŸç†è§£æ][2]
+- [Android Ant æ‰¹é‡å¤šæ¸ é“æ‰“åŒ…å®ä¾‹][3]
+- [Androidå¹³å°ä¸Šå¸¸ç”¨çš„å®šæ—¶å™¨é€‰æ‹©][4]
+- [Androidåº”ç”¨æ­£ç¡®ä½¿ç”¨æ‰©å±•SDå¡][5]
+- [ä¸ºRecyclerViewå¢åŠ Headerå’ŒFooter][6]
+- [å…³äºKindleï¼Œæˆ‘æ‰€çŸ¥é“çš„][7]
+- [å¼•ç”¨ android-support-v4.jar æ—¶å€™å†²çªé—®é¢˜è§£å†³][8]
+- [è½¬ï¼šAndroidç³»ç»Ÿæºç ç›®å½• system-framework ä¸‹å„ä¸ªjaråŒ…çš„ç”¨é€”.md][9]
+- [é€šè¿‡Androidæºä»£ç åˆ†æstartActivity()è¿‡ç¨‹ï¼ˆä¸Šï¼‰][10]
+- [é€šè¿‡Androidæºä»£ç åˆ†æstartActivity()è¿‡ç¨‹ï¼ˆä¸‹ï¼‰][11]
+- [é€šè¿‡æµè§ˆå™¨ç›´æ¥æ‰“å¼€Androidåº”ç”¨ç¨‹åº][12]
+- [é€šè¿‡æºç åˆ†æAndroid çš„æ¶ˆæ¯å¤„ç†æœºåˆ¶][13]
 
 [1]: https://github.com/cundong/blog/blob/master/Android%204.4%20%E4%B8%AD%20WebView%20%E4%BD%BF%E7%94%A8%E6%B3%A8%E6%84%8F%E4%BA%8B%E9%A1%B9.md
 [2]: https://github.com/cundong/blog/blob/master/Android%20AIDL%20%E5%8E%9F%E7%90%86%E8%A7%A3%E6%9E%90.md
