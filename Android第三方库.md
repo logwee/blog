@@ -20,4 +20,5 @@
 ### 字体库
  *（https://github.com/chrisjenx/Calligraphy）
 
-
+### 各种键盘问题
+* （https://github.com/Jacksgong/JKeyboardPanelSwitch）
