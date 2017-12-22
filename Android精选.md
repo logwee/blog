@@ -15,4 +15,4 @@
 
 ## 架构
 
-* Shield：支撑美团点评品类最丰富业务的移动端模块化框架(https://mp.weixin.qq.com/s/WzfzTIPAYlQjkHwmNjiInA)
+* [Shield：支撑美团点评品类最丰富业务的移动端模块化框架](https://mp.weixin.qq.com/s/WzfzTIPAYlQjkHwmNjiInA)
